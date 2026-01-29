@@ -1,0 +1,28 @@
+{
+  "name": "mcmd-one-to-one-manager",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "0.563.0",
+    "@fullcalendar/react": "6.1.10",
+    "@fullcalendar/core": "6.1.10",
+    "@fullcalendar/daygrid": "6.1.10",
+    "@fullcalendar/timegrid": "6.1.10",
+    "@fullcalendar/multimonth": "6.1.10",
+    "@fullcalendar/interaction": "6.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

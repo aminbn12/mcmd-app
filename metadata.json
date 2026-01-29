@@ -1,0 +1,5 @@
+{
+  "name": "MCMD One-to-One Manager",
+  "description": "A B2B meeting scheduling SaaS for the MCMD event. Matches Issuers and Investors based on availability, preferences, and room capacity.",
+  "requestFramePermissions": []
+}
